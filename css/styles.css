@@ -76,6 +76,50 @@ body {
 
 }
 
-.btnServices{
+.rightBtn{
     float: right;
 }
+
+.textAreaa{
+    resize: none;
+    height: 100px;
+}
+
+.contactoImg{
+    width: 170px;
+}
+
+.contactNumber{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.adress{
+    font-weight: 500;
+}
+
+.logoContacto{
+    width: 150px;
+}
+
+.centeredImage{
+    display: block;
+    margin: 0 auto;
+}
+
+.contactForm{
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+}
+
+.redirectionService{
+    color: #000000;
+    text-decoration: none;
+
+    hover{
+        cursor: pointer;
+    }
+}
+
+
+
